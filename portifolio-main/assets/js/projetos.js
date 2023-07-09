@@ -34,7 +34,7 @@ function projetos(section) {
             </div>
           </div>
           <p>
-          Calculadora Simples: Calcule, Copie e use Comandos do teclado. Temas claro e escuro para operações ágeis.
+          Calculadora Simples 3D : Calcule, Copie e use Comandos do teclado. Temas claro e escuro para operações ágeis.
           </p>
           <p>HTML - CSS - JS </p>
         </div>
