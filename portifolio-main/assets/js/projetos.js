@@ -42,7 +42,7 @@ function projetos(section) {
 
         
         <div class="card">
-          <h3>Gerador de Emoji - Links</h3>
+          <h3>Gerador de Emoji</h3>
           <div class="img-wrapper">
             <img src="./assets/images/projects/GeradorDeEmoji.gif" alt="Imagem do projeto." />
             <div class="buttons">
