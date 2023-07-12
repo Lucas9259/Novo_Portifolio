@@ -117,7 +117,7 @@ function projetos(section) {
             </div>
           </div>
           <p>  " Introduzindo a Pokédex: a poderosa união de HTML, CSS, JavaScript e uma API. Neste projeto, criamos uma Pokedex interativa e informativa, permitindo que os usuários mergulhem no mundo dos Pokémon. Descubra dados em tempo real,
-              habilidades e curiosidades sobre cada Pokémon. Uma experiência envolvente para todos os treinadores!" </p>
+              habilidades e curiosidades sobre cada Pokémon. " </p>
           <p>HTML - CSS - JS  - API </p>
         </div>
 
