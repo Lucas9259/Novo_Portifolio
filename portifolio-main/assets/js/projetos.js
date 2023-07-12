@@ -116,8 +116,8 @@ function projetos(section) {
               </a>
             </div>
           </div>
-          <p>  "Gerador de Emoji: Uma experiência de aprendizado, aplicando CSS, HTML, JS, API, Framework e ESModules. 
-          Demonstrei conhecimento, dedicação e criatividade na criação de uma ferramenta funcional, divertida e visualmente cativante." </p>
+          <p>  " Introduzindo a Pokédex: a poderosa união de HTML, CSS, JavaScript e uma API. Neste projeto, criamos uma Pokedex interativa e informativa, permitindo que os usuários mergulhem no mundo dos Pokémon. Descubra dados em tempo real,
+              habilidades e curiosidades sobre cada Pokémon. Uma experiência envolvente para todos os treinadores!" </p>
           <p>HTML - CSS - JS  - API </p>
         </div>
 
