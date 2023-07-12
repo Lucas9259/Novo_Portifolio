@@ -45,9 +45,9 @@ body {
 }
 
 body.light-mode {
-  --secundary-color: rgb(229, 229, 229);
+  --secundary-color: #fffeff;
   --third-color: hwb(0 48% 52% / 0.356);
-  --bg-color: rgb(241, 241, 241);
+  --bg-color: #fffeff;
 
   --headline: hsl(0, 0%, 0%);
   --paragraph: rgb(32, 32, 32);
@@ -976,7 +976,7 @@ footer .social-links li:nth-child(4) svg path:nth-child(2) {
   width: 8rem;
   height: 4rem;
 
-  background-color: var(--secundary-color);
+  background-color: #1fad06;
   border: 0.1rem solid var(--primary-color);
   border-radius: 5rem;
 
@@ -1108,7 +1108,7 @@ footer .social-links li:nth-child(4) svg path:nth-child(2) {
   }
 
   nav#navigation .menu ul li a {
-  color: #00FF00;
+  color: #03bd03;
     opacity: 0.7;
 
     transition: opacity 0.4s;
