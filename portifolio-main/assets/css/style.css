@@ -16,8 +16,8 @@
   --third-color: hsla(0, 0%, 100%, 0.1);
   --bg-color: hsl(0, 0%, 15%);
 
-  --headline:  RGB(245, 245, 245) ;
-  --paragraph:  RGB(245, 245, 245); 
+  --headline:  #ffffff;
+  --paragraph:  #ffffff; 
   --paragraph-2: hsl(calc(var(--hue) + 10), 14%, 97%);
 
   font-size: 62.5%;
@@ -45,9 +45,9 @@ body {
 }
 
 body.light-mode {
-  --secundary-color: #fffeff;
+  --secundary-color: #ffffff;
   --third-color: hwb(0 48% 52% / 0.356);
-  --bg-color: #fffeff;
+  --bg-color: #ffffff;
 
   --headline: hsl(0, 0%, 0%);
   --paragraph: rgb(32, 32, 32);
@@ -155,7 +155,7 @@ body.light-mode #home h4 {
 }
 
 .button:hover {
-  color: RGB(245, 245, 245); 
+  color: #ffffff; 
   background-color: var(--primary-hover);
   border: 0.2rem solid var(--primary-hover);
   cursor: pointer;
@@ -204,7 +204,7 @@ body .social-links li:nth-child(1) svg:hover path {
 
 body .social-links li:nth-child(2) svg:hover path:nth-child(2),
 body nav#navigation .social-links li:nth-child(2) svg:hover path:nth-child(2) {
-  fill:RGB(245, 245, 245); 
+  fill:#ffffff; 
 }
 
 body.light-mode .social-links li:nth-child(2) svg:hover path:nth-child(2),
@@ -272,7 +272,7 @@ nav.scroll {
 }
 
 body.light-mode nav.scroll {
-  background: hsl(0, 0%, 22%);;
+  background: #ffffff;
 }
 
 /* LOGO */
@@ -296,7 +296,7 @@ footer a.logo,
 nav#navigation.scroll a.logo,
 body.menu-expanded nav#navigation a.logo,
 body.light-mode.menu-expanded nav#navigation.scroll a.logo {
-  color: #FFFAFA;
+  color: #ffffff;
 }
 
 body.menu-expanded nav#navigation a.logo {
@@ -315,7 +315,7 @@ body.light-mode nav#navigation.scroll a.logo {
 /* == == */
 
 nav#navigation .menu ul li a {
-  color: #FFFAFA;
+  color: #ffffff;
 }
 
 nav button {
@@ -394,7 +394,7 @@ body.menu-expanded button {
 }
 
 body.menu-expanded button path {
-  stroke: #FFFAFA;
+  stroke: #ffffff;
 }
 
 /*===== HOME ===================================*/
@@ -734,11 +734,11 @@ body.light-mode #home img#notebook-2-white {
 }
 
 #projects .card .buttons a:hover svg path:nth-child(2) {
-  fill: #FFFAFA;
+  fill: #ffffff;
 }
 
 #projects .card .buttons a {
-  background: #FFFAFA;
+  background: #ffffff;
   border-radius: 50%;
 
   width: 6rem;
@@ -757,7 +757,7 @@ body.light-mode #home img#notebook-2-white {
 }
 
 #projects .card .buttons a:hover > svg {
-  fill: #FFFAFA;
+  fill: #ffffff;
 }
 
 #projects .card:nth-child(8) svg path:nth-child(2) {
@@ -867,7 +867,7 @@ body.light-mode #home img#notebook-2-white {
 }
 
 #contact a.button:hover path {
-  fill: #FFFAFA;
+  fill: #ffffff;
 }
 
 #contact ul li:nth-child(2) a img {
@@ -1225,7 +1225,7 @@ footer .social-links li:nth-child(4) svg path:nth-child(2) {
     li:nth-child(2)
     svg:hover
     path:nth-child(2) {
-    fill: #fff;
+    fill: #ffffff;
   }
 
   nav#navigation.scroll
